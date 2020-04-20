@@ -68,6 +68,10 @@
         "source": "/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
+        "merged": "/home/ahmed/Desktop/hhhh/FindingBooks/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/res/layout/list_item.xml"
+    },
+    {
         "merged": "/home/ahmed/Desktop/hhhh/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },

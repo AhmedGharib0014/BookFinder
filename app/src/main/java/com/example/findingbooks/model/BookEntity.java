@@ -3,7 +3,7 @@ package com.example.findingbooks.model;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-class BookEntity {
+public  class BookEntity {
 
     @SerializedName("volumeInfo")
     @Expose

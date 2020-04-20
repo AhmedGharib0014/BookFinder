@@ -34,9 +34,9 @@
 22-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:13:9-40
 23        android:usesCleartextTraffic="true" >
 23-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:11:9-44
-24        <activity android:name="com.example.findingbooks.MainActivity" >
+24        <activity android:name="com.example.findingbooks.ui.MainActivity" >
 24-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:14:9-20:20
-24-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:14:19-47
+24-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:14:19-50
 25            <intent-filter>
 25-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:15:13-19:29
 26                <action android:name="android.intent.action.MAIN" />
@@ -48,6 +48,17 @@
 28-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:18:27-74
 29            </intent-filter>
 30        </activity>
-31    </application>
-32
-33</manifest>
+31
+32        <provider
+32-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+33            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+33-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+34            android:authorities="com.example.findingbooks.lifecycle-process"
+34-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+35            android:exported="false"
+35-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+36            android:multiprocess="true" />
+36-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+37    </application>
+38
+39</manifest>
