@@ -1628,6 +1628,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id simpleProgressBar
 id skipCollapsed
 id slide
 id smallLabel

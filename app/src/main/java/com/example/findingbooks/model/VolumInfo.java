@@ -5,6 +5,11 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
 
+
+/*
+the class has information about one volume (on book)
+ */
+
 public class VolumInfo {
     @SerializedName("title")
             @Expose

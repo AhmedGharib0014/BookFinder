@@ -5,6 +5,12 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
 
+
+
+/*
+
+the class  contain all the retrieved data from google book Api for one Api hit
+ */
 public class SearchResult {
     @SerializedName("kind")
     @Expose

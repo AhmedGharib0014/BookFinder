@@ -82,10 +82,12 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.BookViewHolder
 
     public  void setData(List<BookEntity> bn){
         bookEntities.clear();
-        for (BookEntity bookEntity : bn){
-            bookEntities.add(bookEntity);
+        if(bn != null) {
+            for (BookEntity bookEntity : bn) {
+                bookEntities.add(bookEntity);
+            }
+            notifyDataSetChanged();
         }
-        notifyDataSetChanged();
     }
 
     public class BookViewHolder extends RecyclerView.ViewHolder implements  View.OnClickListener{

@@ -25,6 +25,8 @@ public class BookFinderRepo {
     public  BookViewModel mBookViewModel;
     public CompositeDisposable disposable= new CompositeDisposable();
 
+
+    //insure that its a singleTone class  ... no need for many instatnce .. one is enough
     public static  BookFinderRepo getInstance(){
         if(bookFinderRepo == null){
             return  new  BookFinderRepo();
@@ -34,12 +36,16 @@ public class BookFinderRepo {
         }
     }
 
+    //pasing instance of the ViewModel  because it implements  ReposatoryInterface
     public void setBookViewmodelInstace(BookViewModel bookViewModel){
         mBookViewModel=bookViewModel;
     }
 
 
-
+    /*
+    use retrofit and rxjava to get data from google boook  Api
+    set the REST reqeust by  on io thread and odserve it in the mainThread
+     */
     public  void searchForBooks(String qaury){
 
           BookClient.getINSTANCE().searchForBooks(qaury)
@@ -53,6 +59,7 @@ public class BookFinderRepo {
 
                     @Override
                     public void onNext(@NonNull SearchResult searchResult) {
+                        //when data retreived call OndataRetreived in view model to set livedata
                         mBookViewModel.OndataRetreived(searchResult.getBookEntityList());
                         Log.i("TAG",searchResult.getBookEntityList().get(0).getVolumInfo().toString());
                     }
@@ -60,21 +67,25 @@ public class BookFinderRepo {
                     @Override
                     public void onError(@NonNull Throwable e) {
                         Log.i("TAG", "onError: " + e.toString());
+
                     }
 
                     @Override
                     public void onComplete() {
-
                     }
                 });
 
     }
 
+
+    // to clear all disposable when the model view is cleared
     public void clearDisposable(){
         disposable.clear();
     }
 
-
+    /*
+    Inteface to return data to the viewmodel after get Api Response
+     */
     public  interface  ReposatoryInterface{
         void OndataRetreived(List<BookEntity> boohEntityList);
     }

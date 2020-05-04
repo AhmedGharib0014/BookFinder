@@ -12,7 +12,7 @@ public class BookClient {
     private static BookClient INSTANCE = null;
     private  RetrofitInterface retrofitInterface;
 
-
+    //init the retrofit and its interface
     public BookClient() {
          Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(BASE_URL)
@@ -22,7 +22,7 @@ public class BookClient {
         retrofitInterface = retrofit.create(RetrofitInterface.class);
     }
 
-
+    //insure that it is a singele tone class ..no nead for new  instance for each API hit ,one is enough
     public static BookClient getINSTANCE() {
         if(null==INSTANCE) {
             INSTANCE=new BookClient();
@@ -31,7 +31,7 @@ public class BookClient {
     }
 
 
-
+    //searchForBooks to hit google book Api and search for data
     public Observable<SearchResult> searchForBooks(String key){
         return retrofitInterface.searchForBooks(key);
     }

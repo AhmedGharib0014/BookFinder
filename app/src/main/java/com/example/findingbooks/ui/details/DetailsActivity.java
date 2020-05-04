@@ -66,14 +66,12 @@ public class DetailsActivity extends AppCompatActivity implements View.OnClickLi
         mBookEntity = new BookEntity();
         detailsModelView = ViewModelProviders.of(this).get(DetailsModelView.class);
         previewLink.setOnClickListener(this);
-
-        setSupportActionBar(detailesToolbar);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setDisplayShowHomeEnabled(true);
-        detailesToolbar.setTitle("Book Details");
+        toolBarInit();
 
 
         Intent intent = getIntent();
+        //deSerialsize  data for particular bookEntity and send it to modelView to be LiveData
+        //so when rotaion it still displayed
         if (intent != null) {
             Gson gson = new Gson();
             String jSonString = intent.getStringExtra("details");
@@ -93,7 +91,18 @@ public class DetailsActivity extends AppCompatActivity implements View.OnClickLi
 
     }
 
+    //init the tool bar
+    private void toolBarInit() {
+        setSupportActionBar(detailesToolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+        detailesToolbar.setTitle("Book Details");
 
+    }
+
+
+
+    //expand data ov views of the detainls activity
     public void expandData(BookEntity bookEntity) {
         VolumInfo volumInfo = bookEntity.getVolumInfo();
         String bookTitle = "";
@@ -157,6 +166,8 @@ public class DetailsActivity extends AppCompatActivity implements View.OnClickLi
         return super.onOptionsItemSelected(item);
     }
 
+    //when the user need more info about the book , write review or by it
+    //the user will be redirected to the volume page on goolge by any browser
     @Override
     public void onClick(View v) {
         String url = null;

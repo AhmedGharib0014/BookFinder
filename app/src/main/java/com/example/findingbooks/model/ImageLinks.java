@@ -4,6 +4,10 @@ import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 
+/*
+this class has links to the images of the book
+ */
+
 public class ImageLinks {
 
     @SerializedName("smallThumbnail")
