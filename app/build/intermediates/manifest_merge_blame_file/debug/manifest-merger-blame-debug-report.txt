@@ -6,59 +6,78 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml
+8-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml
+9-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:4:5-66
-11-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:4:22-64
-12
-13    <application
-13-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:6:5-21:19
-14        android:allowBackup="true"
-14-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:7:9-35
-15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/da95e0dd41fd0c634661df2a0f122634/core-1.1.0/AndroidManifest.xml:24:18-86
-16        android:debuggable="true"
-17        android:icon="@mipmap/ic_launcher"
-17-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:8:9-43
-18        android:label="@string/app_name"
-18-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:9:9-41
-19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:10:9-54
-20        android:supportsRtl="true"
-20-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:12:9-35
-21        android:testOnly="true"
-22        android:theme="@style/AppTheme"
-22-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:13:9-40
-23        android:usesCleartextTraffic="true" >
-23-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:11:9-44
-24        <activity android:name="com.example.findingbooks.ui.MainActivity" >
-24-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:14:9-20:20
-24-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:14:19-50
-25            <intent-filter>
-25-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:15:13-19:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:16:17-69
-26-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:16:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:18:17-77
-28-->/home/ahmed/Desktop/hhhh/FindingBooks/app/src/main/AndroidManifest.xml:18:27-74
-29            </intent-filter>
-30        </activity>
+11-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:5:5-67
+11-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:6:5-79
+12-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:9:5-27:19
+15        android:allowBackup="true"
+15-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:10:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@drawable/logo"
+18-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:11:9-38
+19        android:label="@string/app_name"
+19-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:12:9-41
+20        android:roundIcon="@drawable/logo"
+20-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:13:9-43
+21        android:supportsRtl="true"
+21-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:14:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme"
+23-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:15:9-40
+24        android:usesCleartextTraffic="true"
+24-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:16:9-44
+25        android:windowSoftInputMode="stateHidden" >
+25-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:17:9-50
+26        <activity android:name="com.example.findingbooks.ui.details.DetailsActivity" />
+26-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:18:9-73
+26-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:18:19-61
+27        <activity android:name="com.example.findingbooks.ui.main.MainActivity" />
+27-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:19:9-58
+27-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:19:19-55
+28        <activity android:name="com.example.findingbooks.ui.intro.IntroActivity" >
+28-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:20:9-26:20
+28-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:20:19-57
+29            <intent-filter>
+29-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:21:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:22:17-69
+30-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:22:25-66
 31
-32        <provider
-32-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
-33            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-33-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
-34            android:authorities="com.example.findingbooks.lifecycle-process"
-34-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
-35            android:exported="false"
-35-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
-36            android:multiprocess="true" />
-36-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/1457f26391d002f9bd006b8a778fa57f/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
-37    </application>
-38
-39</manifest>
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:24:17-77
+32-->/home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <provider
+36-->[com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+37            android:name="com.squareup.picasso.PicassoProvider"
+37-->[com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+38            android:authorities="com.example.findingbooks.com.squareup.picasso"
+38-->[com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+39            android:exported="false" />
+39-->[com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+40        <provider
+40-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/84e09e53e13670e6f314ca56c78819f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+41            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+41-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/84e09e53e13670e6f314ca56c78819f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+42            android:authorities="com.example.findingbooks.lifecycle-process"
+42-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/84e09e53e13670e6f314ca56c78819f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+43            android:exported="false"
+43-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/84e09e53e13670e6f314ca56c78819f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+44            android:multiprocess="true" />
+44-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/84e09e53e13670e6f314ca56c78819f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+45    </application>
+46
+47</manifest>

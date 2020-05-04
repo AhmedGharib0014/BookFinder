@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">BooksFinder</string>
+    <string name="app_name">Book Finder</string>
+    <string name="details_title">Book Title :</string>
+    <string name="details_authors">Book Authors:</string>
+    <string name="details_description">Description:</string>
+    <string name="details_About_the_book">about the book</string>
+    <string name="details_Write_review">more about the book</string>
 </resources>
