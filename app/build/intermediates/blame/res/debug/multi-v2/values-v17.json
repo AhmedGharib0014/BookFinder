@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+            "outputFile": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
                     "source": "/home/ahmed/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/res/values-v17/values-v17.xml",

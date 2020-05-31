@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.material:material:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ahmed/.gradle/caches/transforms-2/files-2.1/380cbbd0623e9b22e21961fc6ec82b14/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
@@ -12,7 +12,7 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ahmed/.gradle/cache
 MERGED from [androidx.cardview:cardview:1.0.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/271d0ad8fab014e1b69399f7396f344c/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/bc110ac22e64ff7a365e150335216d10/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.jakewharton:butterknife:10.2.1] /home/ahmed/.gradle/caches/transforms-2/files-2.1/12df84beaea3bde9de717b5c62b3d575/jetified-butterknife-10.2.1/AndroidManifest.xml:2:1-7:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/73b741376758043ca71b2712dd6b8e85/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/a6aedf1c7ba4903622509a2d0569c6c2/jetified-rxandroid-3.0.0/AndroidManifest.xml:15:1-20:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/7eb3e9033e20967dc4b6eab4b9d34b59/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -39,41 +39,41 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/ahmed/.gradle/c
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/4e38882eb964e66473ce5119ad391ade/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:3:5-39
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:1-29:12
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:9:5-27:19
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:9:5-27:19
 MERGED from [com.google.android.material:material:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ahmed/.gradle/caches/transforms-2/files-2.1/380cbbd0623e9b22e21961fc6ec82b14/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ahmed/.gradle/caches/transforms-2/files-2.1/380cbbd0623e9b22e21961fc6ec82b14/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/bc110ac22e64ff7a365e150335216d10/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/bc110ac22e64ff7a365e150335216d10/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
 MERGED from [androidx.core:core:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/84e09e53e13670e6f314ca56c78819f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
@@ -83,47 +83,47 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ahmed
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/34b4ab0d8b65ac74ddd00d45b26dd963/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:12:9-41
 	android:windowSoftInputMode
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:17:9-50
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:17:9-50
 	android:roundIcon
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:13:9-43
 	android:icon
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:11:9-38
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:11:9-38
 	android:allowBackup
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:15:9-40
 	android:usesCleartextTraffic
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:16:9-44
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:16:9-44
 activity#com.example.findingbooks.ui.details.DetailsActivity
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:18:9-73
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:18:9-73
 	android:name
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:18:19-61
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:18:19-61
 activity#com.example.findingbooks.ui.main.MainActivity
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:19:9-58
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:19:9-58
 	android:name
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:19:19-55
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:19:19-55
 activity#com.example.findingbooks.ui.intro.IntroActivity
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:20:9-26:20
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:20:9-26:20
 	android:name
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:20:19-57
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:20:19-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ae67d481176994a76afa6f312b4e8a78/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef8a364a6a39421e69c96cf68eeb3e63/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -140,8 +140,8 @@ MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ahmed/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/bc110ac22e64ff7a365e150335216d10/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.jakewharton:butterknife:10.2.1] /home/ahmed/.gradle/caches/transforms-2/files-2.1/12df84beaea3bde9de717b5c62b3d575/jetified-butterknife-10.2.1/AndroidManifest.xml:5:5-44
 MERGED from [com.jakewharton:butterknife:10.2.1] /home/ahmed/.gradle/caches/transforms-2/files-2.1/12df84beaea3bde9de717b5c62b3d575/jetified-butterknife-10.2.1/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/73b741376758043ca71b2712dd6b8e85/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/73b741376758043ca71b2712dd6b8e85/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/a6aedf1c7ba4903622509a2d0569c6c2/jetified-rxandroid-3.0.0/AndroidManifest.xml:18:5-43
@@ -194,24 +194,24 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ahmed
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/0e4335c82d4d573388d62295e89eaaed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/30612fa1f33fcbb3e456c3a5f852366f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-		ADDED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ahmed/Desktop/FindingBooks/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/ef5d492842fe7e7c03253d8fe267fdda/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ahmed/.gradle/caches/transforms-2/files-2.1/b29353cf19f71bf0fc10db575f1585d4/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/ahmed/.gradle/caches/transforms-2/files-2.1/84e09e53e13670e6f314ca56c78819f0/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
 	android:authorities

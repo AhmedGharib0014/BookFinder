@@ -1,86 +1,86 @@
 [
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/drawable_logo.jpeg.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/drawable/logo.jpeg"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/drawable_books.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/drawable/books.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/layout/list_item.xml"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/drawable_logo.jpeg.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/drawable/logo.jpeg"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/drawable_books.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/drawable/books.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/layout-v21_activity_intro3.xml.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/layout-v21/activity_intro3.xml"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/layout-v21_activity_intro3.xml.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/layout-v21/activity_intro3.xml"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/layout-v21_activity_main.xml.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/layout-v21/activity_main.xml"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/layout/list_item.xml"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/drawable_rect.xml.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/drawable/rect.xml"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/drawable_rect.xml.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/drawable/rect.xml"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/layout_activity_intro3.xml.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/layout/activity_intro3.xml"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/layout-v21_activity_main.xml.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/layout-v21/activity_main.xml"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap_ic_launcher.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap/ic_launcher.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/menu/main.xml"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap_ic_launcher.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap/ic_launcher.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/layout_activity_details.xml.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/layout/activity_details.xml"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/layout_activity_intro3.xml.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/layout/activity_intro3.xml"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/layout_activity_details.xml.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/layout/activity_details.xml"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/ahmed/Desktop/FindingBooks/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/ahmed/Desktop/FindingBooks/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/ahmed/Desktop/my githup projects/BookFinder/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/ahmed/Desktop/my githup projects/BookFinder/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]
